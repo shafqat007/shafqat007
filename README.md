@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shafqat007
 - 👀 I’m interested in web development, vfx, animations and 3D modelling!
-- 🌱 I’m currently in High School
+- 🌱 I’m currently studying Bachelor at Chittagong University of Engineering & Technology
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me : gmail: shafqatnawazchy@gmail.com website: shafqat.tech
 
