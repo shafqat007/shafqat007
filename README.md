@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafqat Nawaz</h1>
-<h3 align="center">A passionate frontend & app developer from India</h3>
+<h3 align="center">A passionate frontend & app developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **weatherSense and chatting app**
 
