@@ -17,9 +17,8 @@
 
 - 📄 Know about my experiences [shafqatnawaz.tech](shafqatnawaz.tech)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafqat007&show_icons=true&locale=en&layout=compact" alt="shafqat007" />
